@@ -2,7 +2,8 @@
 
 ### Conhecimento e experiência adquirida:
 
-👍 Java em sua plenitude, usando interfaces, classes, entidades, lybraries, tratando exceçoes...
+👍 Java em sua totalidade, usando interfaces, encapsulamento, construtores, classes, entidades, lybraries, tratando exceçoes,
+fazendo Downcasting, Enums, polimorfismo (ToString), Estrutura de Dados (List)...
 
 👍 Muita, muita, mas muita lógica de programação
 
